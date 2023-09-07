@@ -1,0 +1,5 @@
+1. Làm mấy cái mây để chuyển động per sec 
+2. Kiếm ngôi nhà png 
+3. Tạo funct cho nó có thể mở giao diện mua hàng 
+4. Apply model ruộng 
+5. Tạo thao tác vs ruộng 
